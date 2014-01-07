@@ -6,7 +6,7 @@ var self = module.exports = {
       particles: {
         install: {
           options: {
-            runServices: ['svc|sequence!install/install']
+            runService: 'svc|sequence!install/install'
           }
         }
       }
