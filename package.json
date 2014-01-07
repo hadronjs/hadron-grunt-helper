@@ -1,7 +1,7 @@
 {
   "name": "hadron-grunt-helper",
   "description": "Helper module to delegate grunt configuration of Hadron",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "homepage": "https://github.com/hadronjs/hadron-grunt-helper",
   "author": {
     "name": "Mario Casciaro"
