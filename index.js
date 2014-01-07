@@ -21,7 +21,7 @@ var self = module.exports = {
     grunt.registerTask('build', ['particles-build']);
     grunt.registerTask('rebuild', ['particles-rebuild']);
     grunt.registerTask('watch-assets', ['particles-watch']);
-    grunt.registerTask('install', ['particles-install']);
+    grunt.registerTask('install', ['particles:install']);
     grunt.registerTask('dev', ['particles-develop']);
 
     grunt.registerTask('default', ['rebuild']); 
